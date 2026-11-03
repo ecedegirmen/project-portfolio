@@ -19,6 +19,5 @@ This portfolio brings together my developing applied economics and policy resear
 
 I want readers to be able to follow how a question becomes an analysis: where the data came from, what changed during cleaning, which assumptions matter, and what the results can truly support. The [research workflow](docs/research-workflow.md) sets out how I plan to document and reproduce the work as this repository develops.
 
-**Available now:** project overviews and development plans, the Opportunity Scholarship project's [initial policy-selection note](projects/opportunity-scholarship/research-notes/01-policy-selection.md), and the computational economics project's [documentation](projects/firm-investment/README.md) and [presentation slides](projects/firm-investment/ECON590_Slides.pdf). Its revised notebook will be added separately.
 
 [LinkedIn](https://www.linkedin.com/in/ece-degirmen) · [Email](mailto:eced@unc.edu)
