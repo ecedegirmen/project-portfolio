@@ -4,7 +4,7 @@
 
 **Researcher:** Ece Degirmen, UNC Chapel Hill  
 **Context:** Independent undergraduate research  
-**Status:** Initial policy-selection milestone completed; data assessment and empirical design planned
+**Status:** Public finance framework developed around educational spillovers, household choice, and subsidy incidence. Data assessment is next.
 
 ## What I'm investigating
 
@@ -18,7 +18,19 @@ I selected the policy, prepared and submitted the initial policy-selection write
 
 [Read the initial policy-selection research note](research-notes/01-policy-selection.md).
 
-This milestone establishes the policy background and motivation. Data collection, empirical estimation, and findings remain in progress.
+This milestone establishes the policy background and motivation.
+
+## Public finance framework
+
+The Week 12 ECON 440 synthesis check-in informed three questions I will carry into the independent project. The expansion removed the household income cap and prior public school enrollment requirement. Household income continued to determine award amounts, which ranged from approximately $3,000 to $7,000 per student in 2024–25.
+
+| Framework | Question for the project |
+| --- | --- |
+| Positive externalities and Pigouvian subsidies | If education produces benefits beyond those families receive, does the subsidy increase educational investment, or does it mainly change where students enroll? This distinction helps assess whether the subsidy addresses underinvestment. |
+| Education vouchers and household choice | How do funds restricted to eligible private school tuition and fees change families’ options and education spending? Responses may differ between families already using private schools and families newly able to consider them. |
+| Economic incidence and elasticity | How much of the subsidy reduces families’ net tuition, and how much could schools capture through higher tuition? Relative supply and demand elasticities help explain how prices, enrollment, and school capacity might respond. |
+
+The check-in establishes the analytical framework. Data assessment will determine which mechanisms the available records can address, including whether comparable tuition data are available to study subsidy incidence.
 
 ## Data under assessment
 
@@ -55,4 +67,4 @@ A source register and variable dictionary will be added after the exact files an
 
 A research paper, documented analysis code, source and variable documentation, and figures with clear interpretation. I am developing this as an independent undergraduate research project, with the goal of publishing and submitting it for consideration at the ECON Undergraduate Research Symposium.
 
-**Published findings:** None yet. The next milestone is a verified data inventory and a feasible, precisely defined research question.
+**Published findings:** None yet. The next milestone is to verify the data inventory and narrow the empirical question to the outcomes the available sources can measure.
