@@ -3,8 +3,7 @@
 [Back to portfolio](../../README.md)
 
 **Context:** [Carolina Impact Fellowship](https://carolinaacross100.unc.edu/student-engagement/carolina-impact-fellowship/), Carolina Across 100  
-**Status:** Three-county scope selected; initial schedule checks complete  
-**My role:** Designing the study, checking course and transit schedules, and developing the dashboard and report.
+**Status:** Three-county scope selected; initial schedule checks complete
 
 ## Fellowship context and intended contribution
 
