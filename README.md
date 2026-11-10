@@ -13,7 +13,7 @@ Original research questions developed through economic reasoning, evidence, and 
 | Project | Focus | Current stage |
 | --- | --- | --- |
 | [Econ Undergraduate Research Seminar](https://econ.unc.edu/undergraduate/research/): [North Carolina Opportunity Scholarship expansion](projects/opportunity-scholarship/README.md) | Investigating who benefits from expanded school-voucher eligibility and what changes in participation and enrollment may mean for educational access and public spending | Public-finance framework developed around educational spillovers, household choice, and subsidy incidence; data assessment is next |
-| [Carolina Impact Fellowship](https://carolinaacross100.unc.edu/student-engagement/carolina-impact-fellowship/): [Transportation access to education and training](projects/transportation-access/README.md) | Assessing whether transit routes and class schedules allow young adults to reach training and return home, identifying barriers that proximity alone can miss | Scope and data planning |
+| [Carolina Impact Fellowship](https://carolinaacross100.unc.edu/student-engagement/carolina-impact-fellowship/): [Transportation access to education and training](projects/transportation-access/README.md) | Assessing whether transit routes and class schedules allow young adults to reach training and return home, identifying barriers that proximity alone can miss | Three-county scope selected; initial class and transit schedules checked |
 
 ## Applied analytics and modeling
 
